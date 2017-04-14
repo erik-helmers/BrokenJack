@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/parameters"
+            android:title="Paramètres" />
+        <item
+            android:id="@+id/feedback"
+            android:title="FeedBack" />
+        <item
+            android:id="@+id/credits"
+            android:title="Credits" />
+
+    </group>
+
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MusicControllerWidget">
+        <attr name="doHide" format="boolean"/>
+        <attr name="extends_on" format="reference" />
+    </declare-styleable>
+</resources>

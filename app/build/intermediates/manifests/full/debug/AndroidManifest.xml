@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ehfactory.brokenjack"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/DarkTheme" >
+        <activity
+            android:name="com.ehfactory.brokenjack.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ehfactory.brokenjack.Activitys.Intro.Tutorial"
+            android:exported="true"
+            android:label="@string/title_activity_tutorial" />
+        <activity
+            android:name="com.ehfactory.brokenjack.Activitys.NowPlaying"
+            android:exported="true"
+            android:label="@string/title_activity_now_playing"
+            android:theme="@style/DarkTheme" />
+        <activity
+            android:name="com.ehfactory.brokenjack.Activitys.Artist.ArtistActivity"
+            android:label="@string/title_activity_artist"
+            android:parentActivityName="com.ehfactory.brokenjack.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ehfactory.brokenjack.MainActivity" />
+        </activity>
+
+        <service
+            android:name="com.ehfactory.brokenjack.Service.MusicService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="com.ehfactory.brokenjack.Activitys.Album.AlbumActivity"
+            android:label="@string/title_activity_album" />
+
+        <receiver android:name="com.ehfactory.brokenjack.Service.NotifReceiver" >
+            <intent-filter>
+                <action android:name="PAUSE_ACTION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

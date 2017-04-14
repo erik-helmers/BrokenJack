@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:8:5-55:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\ErikH\.android\build-cache\d3de64cb2fdb5cecbfc6d6c4a39bfedca11ba183\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\ErikH\.android\build-cache\336f6f32070fd0c8438b1b72a94ffeec9d5839f8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\ErikH\.android\build-cache\640937bfa36527d0545a56546ef076d5cfa09958\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\ErikH\.android\build-cache\2fd4a5eb843a7b4989436f737a34f453af0f5c5c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\ErikH\.android\build-cache\1bf4f4db0e4913c4857bf379ab5ff1f41623adab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\ErikH\.android\build-cache\495923bf201be64eb28f0a3eeadd1d093a3d9b59\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\ErikH\.android\build-cache\f389a0da8adbcb5ce5204442040ca5c73c02c221\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\ErikH\.android\build-cache\1a1e66dae0191edf1ed43877e9c5d03b8864b28c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\ErikH\.android\build-cache\456470334fd12068506f40e45eb3dac6914446fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\ErikH\.android\build-cache\750c3521d09ba0fc1e24c258a91a496bf80ed9f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\ErikH\.android\build-cache\121c1928c8c651d45954cb3e9447389e7989d151\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\ErikH\.android\build-cache\23c7a1dbee7e6ae4d1ab53f229ed600aa16e8490\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:13:9-41
+activity#com.ehfactory.brokenjack.MainActivity
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.ehfactory.brokenjack.Activitys.Intro.Tutorial
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:23:9-26:63
+	android:label
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:26:13-60
+	android:exported
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:24:13-53
+activity#com.ehfactory.brokenjack.Activitys.NowPlaying
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:27:9-31:47
+	android:label
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:29:13-63
+	android:exported
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:28:13-49
+activity#com.ehfactory.brokenjack.Activitys.Artist.ArtistActivity
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:34:13-58
+	android:parentActivityName
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:33:13-60
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:36:13-38:73
+	android:value
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:38:17-70
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:37:17-63
+service#com.ehfactory.brokenjack.Service.MusicService
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:41:9-44:39
+	android:enabled
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:42:13-49
+activity#com.ehfactory.brokenjack.Activitys.Album.AlbumActivity
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:46:9-48:60
+	android:label
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:48:13-57
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:47:13-58
+receiver#com.ehfactory.brokenjack.Service.NotifReceiver
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:50:9-54:20
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:50:19-56
+intent-filter#PAUSE_ACTION
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:51:13-53:29
+action#PAUSE_ACTION
+ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:52:17-54
+	android:name
+		ADDED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml:52:25-52
+uses-sdk
+INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\ErikH\.android\build-cache\d3de64cb2fdb5cecbfc6d6c4a39bfedca11ba183\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.turing-tech:MaterialScrollBar:12.3.5] C:\Users\ErikH\.android\build-cache\a3f4ec7f82d08e16c385df630bd25cdb7bbcd365\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:25.3.0] C:\Users\ErikH\.android\build-cache\336f6f32070fd0c8438b1b72a94ffeec9d5839f8\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\ErikH\.android\build-cache\640937bfa36527d0545a56546ef076d5cfa09958\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\ErikH\.android\build-cache\2fd4a5eb843a7b4989436f737a34f453af0f5c5c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\ErikH\.android\build-cache\1bf4f4db0e4913c4857bf379ab5ff1f41623adab\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\ErikH\.android\build-cache\ba37dc9de77c0ae98cfc987651d0e9a1e6a1dd29\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\ErikH\.android\build-cache\495923bf201be64eb28f0a3eeadd1d093a3d9b59\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\ErikH\.android\build-cache\f389a0da8adbcb5ce5204442040ca5c73c02c221\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\ErikH\.android\build-cache\1a1e66dae0191edf1ed43877e9c5d03b8864b28c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\ErikH\.android\build-cache\456470334fd12068506f40e45eb3dac6914446fa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\ErikH\.android\build-cache\750c3521d09ba0fc1e24c258a91a496bf80ed9f1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\ErikH\.android\build-cache\121c1928c8c651d45954cb3e9447389e7989d151\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\ErikH\.android\build-cache\23c7a1dbee7e6ae4d1ab53f229ed600aa16e8490\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\ErikH\.android\build-cache\336f6f32070fd0c8438b1b72a94ffeec9d5839f8\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ErikH\Desktop\BrokenJack\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\ErikH\.android\build-cache\336f6f32070fd0c8438b1b72a94ffeec9d5839f8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\ErikH\.android\build-cache\640937bfa36527d0545a56546ef076d5cfa09958\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\ErikH\.android\build-cache\2fd4a5eb843a7b4989436f737a34f453af0f5c5c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\ErikH\.android\build-cache\1bf4f4db0e4913c4857bf379ab5ff1f41623adab\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\ErikH\.android\build-cache\ba37dc9de77c0ae98cfc987651d0e9a1e6a1dd29\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\ErikH\.android\build-cache\495923bf201be64eb28f0a3eeadd1d093a3d9b59\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\ErikH\.android\build-cache\f389a0da8adbcb5ce5204442040ca5c73c02c221\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\ErikH\.android\build-cache\1a1e66dae0191edf1ed43877e9c5d03b8864b28c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\ErikH\.android\build-cache\456470334fd12068506f40e45eb3dac6914446fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\ErikH\.android\build-cache\750c3521d09ba0fc1e24c258a91a496bf80ed9f1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\ErikH\.android\build-cache\121c1928c8c651d45954cb3e9447389e7989d151\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\ErikH\.android\build-cache\23c7a1dbee7e6ae4d1ab53f229ed600aa16e8490\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\ErikH\.android\build-cache\336f6f32070fd0c8438b1b72a94ffeec9d5839f8\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\ErikH\.android\build-cache\336f6f32070fd0c8438b1b72a94ffeec9d5839f8\output\AndroidManifest.xml:26:9-47

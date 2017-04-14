@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_194ec436cae166c7e4354c8e7d48828ebdd9543a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\750c3521d09ba0fc1e24c258a91a496bf80ed9f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_9204b7f62de57f47143fb5ad7a9ea6141d80b81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\1bf4f4db0e4913c4857bf379ab5ff1f41623adab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_b94fe24599724e2eaff3adca5b35b0a8af44ddf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\2fd4a5eb843a7b4989436f737a34f453af0f5c5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_22b5c29c9f5c1985c84aaaf906ed2c356791e412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\640937bfa36527d0545a56546ef076d5cfa09958\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_2f74b08dd77eb1ddb6eea07abadad65a685364c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\495923bf201be64eb28f0a3eeadd1d093a3d9b59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_81778e07ea5ca856651f35cc8c60bd0fd4187419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\f389a0da8adbcb5ce5204442040ca5c73c02c221\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_a0935ae5465130fe86f891be934f35107aa2f08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\1a1e66dae0191edf1ed43877e9c5d03b8864b28c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_fb257a951c35fd3c4ad953d91477c983e76a3020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\121c1928c8c651d45954cb3e9447389e7989d151\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_0572c61e8f4c9cabd4e2362fa0b99d88871ab642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\ba37dc9de77c0ae98cfc987651d0e9a1e6a1dd29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_0cb1b93db9edda88d3c4ef3d0e536addc2b3b6d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\336f6f32070fd0c8438b1b72a94ffeec9d5839f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_a8d94d7fa1b1f02eddbb614a572c7a83fe7c223f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\23c7a1dbee7e6ae4d1ab53f229ed600aa16e8490\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_4e1ed3ec257973d5729fbc82f0fda51cb1d39098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ErikH\.android\build-cache\456470334fd12068506f40e45eb3dac6914446fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\ErikH\Desktop\BrokenJack\app\build\intermediates\pre-dexed\debug\classes_d6de64348ccc806c4669cb8e02ada7d5f714a6c1.jar" />
+    </item>
+
+</items>
